@@ -6,12 +6,7 @@
     "license": "BSD-3-Clause",
     "source": "https://github.com/silverstripeltd/puppet-ss_logrhythm",
     "project_page": "https://github.com/silverstripeltd/puppet-ss_logrhythm",
-    "dependencies": [
-        {
-            "name": "puppetlabs/java",
-            "version_requirement": ">=4.0.0"
-          }
-    ],
+    "dependencies": [],
     "operatingsystem_support": [
         {
             "operatingsystem": "Debian",
